@@ -1,10 +1,10 @@
 // Copyright (C) 2025  Gerson Ferreira <gersonfaneto.dev@gmail.com>
 // See end of file for extended copyright information.
 
-#ifndef MAESTRO_H_
-#define MAESTRO_H_
+#ifndef COMPOSER_H_
+#define COMPOSER_H_
 
-#ifdef MAESTRO_IMPLEMENTATION
+#ifdef COMPOSER_IMPLEMENTATION
 
 #include <stdio.h>
 
@@ -13,11 +13,11 @@ static inline void say_hello(const char* name)
     printf("Hello, %s!\n", name);
 }
 
-#endif // ifdef MAESTRO_IMPLEMENTATION
+#endif // ifdef COMPOSER_IMPLEMENTATION
 
-#endif // ifndef MAESTRO_H_
+#endif // ifndef COMPOSER_H_
 
-// Maestro :: Self Hosted C Build System.
+// Composer :: Orchestrate your build with C!
 // Copyright (C) 2025  Gerson Ferreira <gersonfaneto.dev@gmail.com>
 //
 // This program is free software: you can redistribute it and/or modify

@@ -1,8 +1,8 @@
 // Copyright (C) 2025  Gerson Ferreira <gersonfaneto.dev@gmail.com>
 // See end of file for extended copyright information.
 
-#define MAESTRO_IMPLEMENTATION
-#include "maestro.h"
+#define COMPOSER_IMPLEMENTATION
+#include "composer.h"
 
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
     return 0;
 }
 
-// Maestro :: Self Hosted C Build System.
+// Composer :: Orchestrate your build with C!
 // Copyright (C) 2025  Gerson Ferreira <gersonfaneto.dev@gmail.com>
 //
 // This program is free software: you can redistribute it and/or modify

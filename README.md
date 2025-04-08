@@ -1,12 +1,12 @@
-# Maestro
+# Composer
 
 ...
 
 ## Getting Started
 
 ```console
-cc maestro.c -o maestro
-./maestro
+cc composer.c -o composer
+./composer
 ```
 
 ## License
@@ -17,4 +17,4 @@ Released under [GPL-3.0][license-url] by [gersonfaneto][profile-url].
 
 [profile-url]: https://github.com/gersonfaneto
 
-[license-url]: https://github.com/gersonfaneto/Maestro/blob/main/LICENSE
+[license-url]: https://github.com/gersonfaneto/Composer/blob/main/LICENSE
